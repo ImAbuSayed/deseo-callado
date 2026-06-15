@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo callado
+
+This log tracks the cryptographic history and versioning for the song **Deseo callado** (deseo-callado).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:35:57.373905 | `v1` | `a388ed165c09e0d70991c91e8eb5cd4af29d47bbb91dbe3d238421dac09f6999` | `b8ac5e01007b9caf0657cd72976a9a4c2c236f489f1f713dadfbed5bd9a2ece6` | `2026-06-15_deseo-callado-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
