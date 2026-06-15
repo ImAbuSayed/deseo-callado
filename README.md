@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-callado/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deseo callado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-callado/) |
+| **Get License** | [Obtain a Music License for Deseo callado](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-callado/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche te fugas conmigo
+> La calle se apaga y yo sigo encendido
+> Es un deseo callado que quema en la piel
+> Bebé, en lo oscuro, nos sabe a miel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
